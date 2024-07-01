@@ -1,0 +1,10 @@
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\bin\Debug\ödevdeneme.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\bin\Debug\ödevdeneme.exe
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\bin\Debug\ödevdeneme.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.exe
+C:\Users\MSİ\OneDrive\Masaüstü\devv\ödevdeneme\ödevdeneme\obj\Debug\ödevdeneme.pdb
